@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb601708-89d3-49f5-8837-e27e35bb7954" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter_four/decimal_eqivalent_of_binary_number.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_four/pallindromes.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_four/right_angle_triangle.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_four/right_angle_triangle.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///snap/go/10888" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2wcmCzxgrXmZiWCQqpmjGvSlBFp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go Application",
+    "Go Build.go build go_lang/chapter_four (1).executor": "Run",
+    "Go Build.go build go_lang/chapter_four (2).executor": "Run",
+    "Go Build.go build go_lang/chapter_four.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.GoLinterPluginOnboarding": "true",
+    "RunOnceActivity.GoLinterPluginStorageMigration": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/home/malik",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="GoApplicationRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build go_lang/chapter_four (2)">
+    <configuration name="go build go_lang/chapter_four (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_lang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="go_lang/chapter_four" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter_four/pallindromes.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go_lang/chapter_four (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_lang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="go_lang/chapter_four" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter_four/decimal_eqivalent_of_binary_number.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go_lang/chapter_four" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_lang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="go_lang/chapter_four" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter_four/right_angle_triangle.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build go_lang/chapter_four (2)" />
+        <item itemvalue="Go Build.go build go_lang/chapter_four (1)" />
+        <item itemvalue="Go Build.go build go_lang/chapter_four" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-3b128438d3f6-34ac7aa8f6ab-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-251.23774.430" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-GO-251.23774.430" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb601708-89d3-49f5-8837-e27e35bb7954" name="Changes" comment="" />
+      <created>1746349116611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746349116611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

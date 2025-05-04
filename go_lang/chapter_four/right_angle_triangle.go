@@ -10,10 +10,10 @@ func main() {
 		fmt.Println("Error reading input")
 	}
 	for triangle := 0; triangle < base; triangle++ {
-		for count := 0; count < triangle; count++ {
-			fmt.Print("*")
+		for count := 0; triangle > count; count++ {
+			fmt.Print("* ")
 		}
-		println("p")
+		println()
 	}
 
 }
