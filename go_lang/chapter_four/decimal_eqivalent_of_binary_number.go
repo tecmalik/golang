@@ -16,10 +16,9 @@ func main() {
 	decimal := 0.0
 	for counter := len(binaryInput) - 1; counter >= 0; counter-- {
 
-		fmt.Println(binaryInput[counter])
-		digit := int(binaryInput[counter])
-		fmt.Println("  ", digit)
-		decimal = +(float64(digit) * (math.Pow(2, float64(count))))
+		digit := int(binaryInput[counter] - 48)
+
+		decimal = decimal + (float64(digit) * (math.Pow(2, float64(count))))
 		count++
 	}
 	fmt.Printf("decimal = %d\n", int(decimal))
