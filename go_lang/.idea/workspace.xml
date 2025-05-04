@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb601708-89d3-49f5-8837-e27e35bb7954" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_five/compound_intrest.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_five/the_sum_of_series.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_five/triangle_printing_program.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_five/the_twelve_days_of_chrismas.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_five/integersDivissivleByThree.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_five/integers_divisible_by_three.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_five/triangle_printing_program.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_five/triangle_printing_program.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,7 @@
     "Go Build.go build go_lang/chapter_five (1).executor": "Run",
     "Go Build.go build go_lang/chapter_five (2).executor": "Run",
     "Go Build.go build go_lang/chapter_five (3).executor": "Run",
+    "Go Build.go build go_lang/chapter_five (4).executor": "Run",
     "Go Build.go build go_lang/chapter_five.executor": "Run",
     "Go Build.go build go_lang/chapter_four (1).executor": "Run",
     "Go Build.go build go_lang/chapter_four (2).executor": "Run",
@@ -73,16 +72,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build go_lang/chapter_five (3)">
-    <configuration name="go build go_lang/chapter_five (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_lang" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="go_lang/chapter_five" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/chapter_five/integersDivissivleByThree.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build go_lang/chapter_five">
     <configuration name="go build go_lang/chapter_five (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_lang" />
       <working_directory value="$PROJECT_DIR$" />
@@ -101,13 +91,22 @@
       <filePath value="$PROJECT_DIR$/chapter_five/compound_intrest.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build go_lang/chapter_five (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_lang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="go_lang/chapter_five" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter_five/triangle_printing_program.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build go_lang/chapter_five" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_lang" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <package value="go_lang/chapter_five" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/chapter_five/extremes.go" />
+      <filePath value="$PROJECT_DIR$/chapter_five/the_twelve_days_of_chrismas.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build go_lang/chapter_four (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build go_lang/chapter_five" />
+        <item itemvalue="Go Build.go build go_lang/chapter_five (4)" />
         <item itemvalue="Go Build.go build go_lang/chapter_five (3)" />
         <item itemvalue="Go Build.go build go_lang/chapter_five (2)" />
         <item itemvalue="Go Build.go build go_lang/chapter_four (2)" />
-        <item itemvalue="Go Build.go build go_lang/chapter_five (1)" />
-        <item itemvalue="Go Build.go build go_lang/chapter_five" />
       </list>
     </recent_temporary>
   </component>
