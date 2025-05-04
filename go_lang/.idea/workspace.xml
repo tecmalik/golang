@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb601708-89d3-49f5-8837-e27e35bb7954" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_four/decimal_eqivalent_of_binary_number.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_four/pallindromes.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_four/right_angle_triangle.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_four/right_angle_triangle.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_four/e_constant.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_four/factorial.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_four/decimal_eqivalent_of_binary_number.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_four/decimal_eqivalent_of_binary_number.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +26,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2wcmCzxgrXmZiWCQqpmjGvSlBFp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,6 +40,8 @@
     "DefaultGoTemplateProperty": "Go Application",
     "Go Build.go build go_lang/chapter_four (1).executor": "Run",
     "Go Build.go build go_lang/chapter_four (2).executor": "Run",
+    "Go Build.go build go_lang/chapter_four (3).executor": "Run",
+    "Go Build.go build go_lang/chapter_four (4).executor": "Run",
     "Go Build.go build go_lang/chapter_four.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.GoLinterPluginOnboarding": "true",
@@ -66,7 +68,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build go_lang/chapter_four (2)">
+  <component name="RunManager" selected="Go Build.go build go_lang/chapter_four (4)">
     <configuration name="go build go_lang/chapter_four (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_lang" />
       <working_directory value="$PROJECT_DIR$" />
@@ -85,6 +87,24 @@
       <filePath value="$PROJECT_DIR$/chapter_four/decimal_eqivalent_of_binary_number.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build go_lang/chapter_four (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_lang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="go_lang/chapter_four" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter_four/factorial.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go_lang/chapter_four (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_lang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="go_lang/chapter_four" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter_four/e_constant.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build go_lang/chapter_four" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_lang" />
       <working_directory value="$PROJECT_DIR$" />
@@ -96,6 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build go_lang/chapter_four (4)" />
+        <item itemvalue="Go Build.go build go_lang/chapter_four (3)" />
         <item itemvalue="Go Build.go build go_lang/chapter_four (2)" />
         <item itemvalue="Go Build.go build go_lang/chapter_four (1)" />
         <item itemvalue="Go Build.go build go_lang/chapter_four" />
