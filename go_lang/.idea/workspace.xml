@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb601708-89d3-49f5-8837-e27e35bb7954" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_five/extremes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_five/integersDivissivleByThree.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_five/compound_intrest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_five/the_sum_of_series.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_five/triangle_printing_program.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_four/decimal_eqivalent_of_binary_number.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_four/decimal_eqivalent_of_binary_number.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_five/integersDivissivleByThree.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_five/integers_divisible_by_three.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,8 @@
   "keyToString": {
     "DefaultGoTemplateProperty": "Go Application",
     "Go Build.go build go_lang/chapter_five (1).executor": "Run",
+    "Go Build.go build go_lang/chapter_five (2).executor": "Run",
+    "Go Build.go build go_lang/chapter_five (3).executor": "Run",
     "Go Build.go build go_lang/chapter_five.executor": "Run",
     "Go Build.go build go_lang/chapter_four (1).executor": "Run",
     "Go Build.go build go_lang/chapter_four (2).executor": "Run",
@@ -70,7 +73,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build go_lang/chapter_four (2)">
+  <component name="RunManager" selected="Go Build.go build go_lang/chapter_five (3)">
     <configuration name="go build go_lang/chapter_five (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_lang" />
       <working_directory value="$PROJECT_DIR$" />
@@ -78,6 +81,24 @@
       <package value="go_lang/chapter_five" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/chapter_five/integersDivissivleByThree.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go_lang/chapter_five (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_lang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="go_lang/chapter_five" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter_five/the_sum_of_series.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go_lang/chapter_five (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_lang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="go_lang/chapter_five" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter_five/compound_intrest.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build go_lang/chapter_five" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -98,31 +119,13 @@
       <filePath value="$PROJECT_DIR$/chapter_four/decimal_eqivalent_of_binary_number.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go_lang/chapter_four (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_lang" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="go_lang/chapter_four" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/chapter_four/factorial.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build go_lang/chapter_four (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_lang" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="go_lang/chapter_four" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/chapter_four/e_constant.go" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build go_lang/chapter_five (3)" />
+        <item itemvalue="Go Build.go build go_lang/chapter_five (2)" />
         <item itemvalue="Go Build.go build go_lang/chapter_four (2)" />
         <item itemvalue="Go Build.go build go_lang/chapter_five (1)" />
         <item itemvalue="Go Build.go build go_lang/chapter_five" />
-        <item itemvalue="Go Build.go build go_lang/chapter_four (4)" />
-        <item itemvalue="Go Build.go build go_lang/chapter_four (3)" />
       </list>
     </recent_temporary>
   </component>
