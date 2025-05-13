@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb601708-89d3-49f5-8837-e27e35bb7954" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calculator/Morning_task.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/Morning_task_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/calculator.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +17,7 @@
       <list>
         <option value="Go Application" />
         <option value="Go File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -36,39 +34,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go Application",
-    "Go Build.go build go_lang/calculator.executor": "Run",
-    "Go Build.go build go_lang/chapter_five (1).executor": "Run",
-    "Go Build.go build go_lang/chapter_five (2).executor": "Run",
-    "Go Build.go build go_lang/chapter_five (3).executor": "Run",
-    "Go Build.go build go_lang/chapter_five (4).executor": "Run",
-    "Go Build.go build go_lang/chapter_five.executor": "Run",
-    "Go Build.go build go_lang/chapter_four (1).executor": "Run",
-    "Go Build.go build go_lang/chapter_four (2).executor": "Run",
-    "Go Build.go build go_lang/chapter_four (3).executor": "Run",
-    "Go Build.go build go_lang/chapter_four (4).executor": "Run",
-    "Go Build.go build go_lang/chapter_four.executor": "Run",
-    "Go Test.TestThatTheOutPutIsTrue in go_lang/calculator.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.GoLinterPluginOnboarding": "true",
-    "RunOnceActivity.GoLinterPluginStorageMigration": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/home/malik/Documents/tecmalik/golang/go_lang",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.configurations.included.in.services": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
+    &quot;Go Build.go build go_lang/calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build go_lang/chapter_five (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build go_lang/chapter_five (2).executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build go_lang/chapter_five (3).executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build go_lang/chapter_five (4).executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build go_lang/chapter_five.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build go_lang/chapter_four (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build go_lang/chapter_four (2).executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build go_lang/chapter_four (3).executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build go_lang/chapter_four (4).executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build go_lang/chapter_four.executor&quot;: &quot;Run&quot;,
+    &quot;Go Test.TestThatTheOutPutIsTrue in go_lang/calculator.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoLinterPluginOnboarding&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoLinterPluginStorageMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/malik/Documents/tecmalik/golang/go_lang&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
